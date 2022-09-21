@@ -1,0 +1,8 @@
+token:
+  expiration: 864000000
+  secret: sjdhbfcvsdjkcvnbsdjkcni23klwsencf
+
+
+login:
+  url:
+    path: /user/login
